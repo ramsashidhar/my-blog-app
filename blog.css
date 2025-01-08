@@ -1,0 +1,23 @@
+header{
+    text-align: center;
+    font-size: large;
+    color: aqua;
+    justify-items: center;
+    
+}
+main{
+    width: 50%;
+    margin: 0;
+    justify-items: center;
+    
+}
+body{
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+}
+h1:hover{
+    color:palegreen;
+}
+
